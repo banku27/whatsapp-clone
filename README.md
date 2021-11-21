@@ -1,6 +1,14 @@
 # whatsapp_ui
 
-A new Flutter project.
+Whatsapp Ui clone in Flutter.
+
+
+## Screenshots
+![calls](screenshot\calls.png)
+
+![chats](screenshot\chats.png)
+
+![status](screenshot\status.png)
 
 ## Getting Started
 
